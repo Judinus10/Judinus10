@@ -1,4 +1,4 @@
-# 💫 About Me:
+# HI! I AM JUDES UTHIYARAJ JUDINUS
 I am currently studying  BEng in SOFTWARE ENGINEERING • 2023 - present •UNIVERSITY OF WESTMINISTER AFFLIAATED WITH INFORMATICS INSTITUTE OF TECHNOLOGY (IIT)<br>I’m currently looking for an internship in software development<br>I’m also learning R, Dart, and Node.js<br>When I'm not coding, you'll find me exploring new travel destinations or deep into a movie marathon!
 
 
