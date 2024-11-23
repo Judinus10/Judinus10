@@ -7,15 +7,7 @@
 
 - 🌱 I’m currently learning **MechineLearning & Bockchain**
 
-- 👯 I’m looking to collaborate on **Python based Project**
-
-- 👨‍💻 All of my projects are available at [https://judinus10.github.io/portfolio/](https://judinus10.github.io/portfolio/)
-
-- 💬 Ask me about **python,Java (Basic 😁)**
-
 - 📫 How to reach me **jjudinas@gmail.com**
-
-- ⚡ Fun fact **Just a tech person, fueled by coffee and fixing things one restart at a time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
