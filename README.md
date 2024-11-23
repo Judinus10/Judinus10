@@ -50,9 +50,9 @@
 <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> 
 </a>
-<a href="https://www.apache.org" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://www.apache.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> 
-</a>
+</a> -->
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
 </a>
@@ -65,9 +65,16 @@
 <a href="https://openjfx.io" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/JavaFX_Logo.png" alt="javafx" width="40" height="40"/> 
 </a>
-<a href="https://www.apache.org" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://www.apache.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> 
+</a> -->
+ <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/XAMPP_logo.svg" alt="xampp" width="40" height="40"/> 
 </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij idea" width="40" height="40"/> 
+</a>
+
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a>
@@ -80,7 +87,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </a>
-<a href="https://numpy.org" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://numpy.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
 </a>
 <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> 
@@ -88,6 +95,12 @@
 </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
+</a> -->
+<a href="https://www.atelierb.eu/en/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Atelier_B_logo.svg" alt="atelier b" width="40" height="40"/> 
+</a>
+<a href="https://www3.hhu.de/stups/prob/index.php/Main_Page" target="_blank" rel="noreferrer"> 
+    <img src="https://www3.hhu.de/stups/prob/images/5/52/ProB_Logo.svg" alt="prob" width="40" height="40"/> 
 </a>
 <a href="https://pytorch.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
@@ -104,9 +117,6 @@
 <a href="https://www.canva.com" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_Logo.png" alt="canva" width="40" height="40"/> 
 </a>
-
-
-
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=judinus10&show_icons=true&locale=en&layout=compact" alt="judinus10" /></p>
