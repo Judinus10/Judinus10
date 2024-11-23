@@ -45,15 +45,15 @@
 <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> 
 </a>           
-<a href="https://openjfx.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javafx/javafx-original.svg" alt="javafx" width="40" height="40"/> 
+<a href="https://www.canva.com" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_Logo.png" alt="canva" width="40" height="40"/> 
 </a>           
 <a href="https://www.apache.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> 
 </a>           
-<a href="https://www.canva.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_Logo.png" alt="canva" width="40" height="40"/> 
-</a>           
+<a href="https://openjfx.io" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/JavaFX_Logo.png" alt="javafx" width="40" height="40"/> 
+</a>         
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="adobe photoshop" width="40" height="40"/> 
 </a>           
