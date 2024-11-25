@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Chatbot**
 
-- 🌱 I’m currently learning **MechineLearning & Bockchain**
+- 🌱 I’m currently learning **MechineLearning & Blockchain**
 
 - 📫 How to reach me **jjudinas@gmail.com**
 
