@@ -34,18 +34,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
     <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
-    <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" height="40" alt="xampp logo"  />
-    <img width="12" />
-  <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2021/07/communityIcon_4v21sx0aiam41.png?fit=256%2C171&ssl=1" height="40" alt="javafx logo"  />
-    <img width="12" />
-    <img src="https://e7.pngegg.com/pngimages/776/561/png-clipart-javafx-scene-builder-fxml-jar-mobile-app-development-builder-food-user-interface-design.png" height="40" alt="scene builder logo"  />
-    <img width="12" />
-  <img src="https://yt3.googleusercontent.com/ytc/AIdro_ld3j8EGwpj_01mvZ4M_eGBhRMdEc95WkVOvR1L1Zi2Hw=s900-c-k-c0x00ffffff-no-rj" height="40" alt="atelierB logo"  />
-  <img src="https://prob.hhu.de/w/skins/prob/img/prob_logo.png" height="40" alt="proB logo"  />
-    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
@@ -77,6 +67,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" height="40" alt="xampp logo"  />
+  <img width="12" />
+  <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2021/07/communityIcon_4v21sx0aiam41.png?fit=256%2C171&ssl=1" height="40" alt="javafx logo"  />
+  <img width="12" />
+  <img src="https://e7.pngegg.com/pngimages/776/561/png-clipart-javafx-scene-builder-fxml-jar-mobile-app-development-builder-food-user-interface-design.png" height="40" alt="scene builder logo"  />
+  <img width="12" />
+  <img src="https://yt3.googleusercontent.com/ytc/AIdro_ld3j8EGwpj_01mvZ4M_eGBhRMdEc95WkVOvR1L1Zi2Hw=s900-c-k-c0x00ffffff-no-rj" height="40" alt="atelierB logo"  />
+  <img src="https://prob.hhu.de/w/skins/prob/img/prob_logo.png" height="40" alt="proB logo"  />
+    
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=judinus10&show_icons=true&locale=en&layout=compact" alt="judinus10" /></p>
