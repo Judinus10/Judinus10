@@ -50,11 +50,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" height="40" alt="kali linux logo" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" height="40" alt="kali linux logo](https://www.google.com/imgres?q=kali%20linux%20icon&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F313%2F385%2Fpng-transparent-kali-linux-backtrack-penetration-test-ubuntu-sick-branch-monochrome-vertebrate.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dkali%2BLinux&docid=rcY-_bTQ2Wj_gM&tbnid=32-sRBPDxKilQM&vet=12ahUKEwjZxqeT0OGLAxX2cPUHHQSZORQQM3oECB0QAA..i&w=920&h=742&hcb=2&ved=2ahUKEwjZxqeT0OGLAxX2cPUHHQSZORQQM3oECB0QAA)" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" /> -->
