@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Judinus</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=judinus10&label=Profile%20views&color=0e75b6&style=flat" alt="judinus10" /> </p>
+
 
 - 🔭 I’m currently working on **Chatbot**
 
